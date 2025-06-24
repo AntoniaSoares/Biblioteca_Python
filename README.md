@@ -54,7 +54,7 @@ biblioteca/
 🖥️ Como Executar
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/biblioteca-python.git
+git clone https:https://github.com/AntoniaSoares/Biblioteca_Python/.git
 
 2. Execute o sistema:
 python main.py
