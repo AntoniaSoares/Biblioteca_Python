@@ -1,0 +1,234 @@
+2025-06-05 18:08:50,546 - INFO - Iniciando aplicação Biblioteca
+2025-06-05 18:08:50,659 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 49, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 37, in main
+    app = BibliotecaApp(root)
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 57, in __init__
+    self.setup_main_layout()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 78, in setup_main_layout
+    self.create_menu()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 92, in create_menu
+    cadastro_menu.add_command(label="Livros", command=self.show_book_screen)
+                                                      ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'BibliotecaApp' object has no attribute 'show_book_screen'. Did you mean: 'show_home_screen'?
+2025-06-05 18:08:57,337 - INFO - Iniciando aplicação Biblioteca
+2025-06-05 18:08:57,442 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 49, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 37, in main
+    app = BibliotecaApp(root)
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 57, in __init__
+    self.setup_main_layout()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 78, in setup_main_layout
+    self.create_menu()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 92, in create_menu
+    cadastro_menu.add_command(label="Livros", command=self.show_book_screen)
+                                                      ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'BibliotecaApp' object has no attribute 'show_book_screen'. Did you mean: 'show_home_screen'?
+2025-06-05 18:09:15,661 - INFO - Iniciando aplicação Biblioteca
+2025-06-05 18:09:15,770 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 49, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 37, in main
+    app = BibliotecaApp(root)
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 57, in __init__
+    self.setup_main_layout()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 78, in setup_main_layout
+    self.create_menu()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 92, in create_menu
+    cadastro_menu.add_command(label="Livros", command=self.show_book_screen)
+                                                      ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'BibliotecaApp' object has no attribute 'show_book_screen'. Did you mean: 'show_home_screen'?
+2025-06-05 18:21:18,504 - INFO - Iniciando aplicação Biblioteca
+2025-06-05 18:21:18,615 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 49, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 37, in main
+    app = BibliotecaApp(root)
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 57, in __init__
+    self.setup_main_layout()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 294, in setup_main_layout
+    self.create_menu()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 319, in create_menu
+    relatorios_menu.add_command(label="Livros Disponíveis", command=self.show_available_books)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'BibliotecaApp' object has no attribute 'show_available_books'
+2025-06-05 18:21:38,390 - INFO - Iniciando aplicação Biblioteca
+2025-06-05 18:21:38,494 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 49, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 37, in main
+    app = BibliotecaApp(root)
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 57, in __init__
+    self.setup_main_layout()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 294, in setup_main_layout
+    self.create_menu()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 319, in create_menu
+    relatorios_menu.add_command(label="Livros Disponíveis", command=self.show_available_books)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'BibliotecaApp' object has no attribute 'show_available_books'
+2025-06-05 18:21:48,398 - INFO - Iniciando aplicação Biblioteca
+2025-06-05 18:21:48,508 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 49, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 37, in main
+    app = BibliotecaApp(root)
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 57, in __init__
+    self.setup_main_layout()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 294, in setup_main_layout
+    self.create_menu()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 319, in create_menu
+    relatorios_menu.add_command(label="Livros Disponíveis", command=self.show_available_books)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'BibliotecaApp' object has no attribute 'show_available_books'
+2025-06-05 18:26:04,705 - INFO - Iniciando aplicação Biblioteca
+2025-06-05 18:26:05,192 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 49, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 37, in main
+    app = BibliotecaApp(root)
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 57, in __init__
+    self.setup_main_layout()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 294, in setup_main_layout
+    self.create_menu()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 326, in create_menu
+    ajuda_menu.add_command(label="Sobre", command=self.show_about)
+                                                  ^^^^^^^^^^^^^^^
+AttributeError: 'BibliotecaApp' object has no attribute 'show_about'
+2025-06-05 18:28:56,888 - INFO - Iniciando aplicação Biblioteca
+2025-06-05 18:33:03,285 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 16:45:19,025 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 16:45:19,554 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 49, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 37, in main
+    app = BibliotecaApp(root)
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 54, in __init__
+    self.db = Database()
+              ~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\database.py", line 10, in __init__
+    if os.path.exists(db_name):
+       ^^
+NameError: name 'os' is not defined. Did you forget to import 'os'?
+2025-06-06 16:45:26,322 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 16:45:26,394 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 49, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 37, in main
+    app = BibliotecaApp(root)
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 54, in __init__
+    self.db = Database()
+              ~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\database.py", line 10, in __init__
+    if os.path.exists(db_name):
+       ^^
+NameError: name 'os' is not defined. Did you forget to import 'os'?
+2025-06-06 16:46:08,765 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 16:46:08,844 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 49, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\main.py", line 37, in main
+    app = BibliotecaApp(root)
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\interface.py", line 54, in __init__
+    self.db = Database()
+              ~~~~~~~~^^
+  File "C:\Users\ruhan\OneDrive\Desktop\biblioteca\database.py", line 10, in __init__
+    if os.path.exists(db_name):
+       ^^
+NameError: name 'os' is not defined. Did you forget to import 'os'?
+2025-06-06 16:48:19,647 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 16:54:03,619 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 16:59:10,983 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 16:59:24,328 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 16:59:39,238 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:03:01,273 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:07:26,301 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:07:52,709 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:09:50,006 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:10:08,736 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:11:16,126 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:12:16,967 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:16:07,360 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:17:13,796 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:18:59,819 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:19:18,714 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:20:45,867 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:21:14,188 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:21:59,321 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:22:37,287 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:23:27,952 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:23:53,133 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:24:59,892 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:27:58,917 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:30:54,003 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:37:09,584 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:39:56,924 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:40:40,181 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:56:29,191 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 17:57:09,157 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 17:59:00,622 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:00:26,155 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 18:05:13,793 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:05:54,213 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 18:06:28,345 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:06:40,334 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 18:15:12,163 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:18:29,068 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 18:51:01,748 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:51:16,360 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 18:51:18,412 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:51:28,359 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 18:51:30,057 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:53:40,816 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 18:53:49,083 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:56:05,341 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 18:56:49,296 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:57:05,068 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 18:57:42,586 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:58:00,997 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 18:59:21,019 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 18:59:36,074 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 19:00:09,432 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 19:01:48,517 - INFO - Aplicação encerrada pelo usuário
+2025-06-06 19:02:04,585 - INFO - Iniciando aplicação Biblioteca
+2025-06-06 19:06:12,567 - INFO - Aplicação encerrada pelo usuário
+2025-06-17 07:17:41,349 - INFO - Iniciando aplicação Biblioteca
+2025-06-17 07:18:28,121 - INFO - Aplicação encerrada pelo usuário
+2025-06-17 08:08:30,059 - INFO - Iniciando aplicação Biblioteca
+2025-06-17 08:56:55,807 - INFO - Iniciando aplicação Biblioteca
+2025-06-17 09:18:00,609 - INFO - Aplicação encerrada pelo usuário
